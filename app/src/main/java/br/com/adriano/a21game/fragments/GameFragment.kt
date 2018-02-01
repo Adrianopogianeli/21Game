@@ -20,6 +20,7 @@ import br.com.adriano.a21game.R
  */
 class GameFragment : Fragment() {
 
+
     // TODO: Rename and change types of parameters
     private var mParam1: String? = null
     private var mParam2: String? = null

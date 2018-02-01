@@ -34,7 +34,7 @@ class SplashActivity : AppCompatActivity() {
 
             this@SplashActivity.finish()
 
-        },300)
+        },3000)
     }
 
 }
